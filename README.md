@@ -1,0 +1,1 @@
+# liga-world-manager
